@@ -1,14 +1,14 @@
-# 2017.docker-curriculum
+# docker-curriculum-2017
 
 ![](https://img.shields.io/badge/language-bash-blue)
 ![](https://img.shields.io/badge/technology-docker-blue)
 ![](https://img.shields.io/badge/development%20year-2020-orange)
 
-![](https://img.shields.io/github/languages/top/shijiansu/2017.docker-curriculum)
-![](https://img.shields.io/github/languages/count/shijiansu/2017.docker-curriculum)
-![](https://img.shields.io/github/languages/code-size/shijiansu/2017.docker-curriculum)
-![](https://img.shields.io/github/repo-size/shijiansu/2017.docker-curriculum)
-![](https://img.shields.io/github/last-commit/shijiansu/2017.docker-curriculum?color=red)
+![](https://img.shields.io/github/languages/top/shijiansu/docker-curriculum-2017)
+![](https://img.shields.io/github/languages/count/shijiansu/docker-curriculum-2017)
+![](https://img.shields.io/github/languages/code-size/shijiansu/docker-curriculum-2017)
+![](https://img.shields.io/github/repo-size/shijiansu/docker-curriculum-2017)
+![](https://img.shields.io/github/last-commit/shijiansu/docker-curriculum-2017?color=red)
 
 ## Outline
 
